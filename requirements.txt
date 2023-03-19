@@ -2,6 +2,10 @@ bqplot
 ipympl
 ipyvolume
 scipy
-fastbook
+matlibplot
+ipywidgets
+IPython
+numpy
+random
 voila
 
